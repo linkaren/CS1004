@@ -13,6 +13,7 @@ which would change as the drunkard moves from intersection to intersection.
 After initializng them, I set up a random number generator in thr step method
 for the direction the drunkard would move (north, east, south, west) and moved 
 the drunkard 1 block in the decided direction.
+
 Through the fastForward method, I just called the step method above for each 
 intersection he comes across. Finally, I returned the values for the final 
 avenue and street location and the distance from his starting location.
