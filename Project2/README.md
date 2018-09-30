@@ -1,5 +1,3 @@
-# CS1004
-
 Leap Year
 
 I first declared and initialized givenYear as a user input variable. After, I 
