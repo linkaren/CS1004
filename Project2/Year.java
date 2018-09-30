@@ -1,7 +1,4 @@
-/*
-*
-* Represents a calendar year!
-*
+/* Represents a calendar year!
 * Is it a leap year??
 */
 
